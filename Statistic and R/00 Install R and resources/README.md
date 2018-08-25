@@ -6,4 +6,4 @@ Download R of the page [R-Project](https://cran.r-project.org/) and install with
 
 ## Install RStudio
 
-Download RStudio of the page [R-Studio](https://www.rstudio.com/) and install with .exe package in Windows, finished the installation open the program and verify typing version in console.
+Download RStudio of the page [R-Studio](https://www.rstudio.com/) and install with .exe package in Windows, finished the installation open the program and verify typing version in console. RStudio is the environment of development for R and work with visual elements.
