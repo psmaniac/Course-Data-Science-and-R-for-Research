@@ -1,1 +1,1 @@
-# Course-Data-Sience-and-R-for-Research
+# Course-Data-Science-and-R-for-Research
