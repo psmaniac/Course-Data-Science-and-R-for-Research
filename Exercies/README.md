@@ -9,7 +9,7 @@ They have the following results in: "https://github.com/psmaniac/Course-Data-Sci
 **3.-** Calcule las desviaciones estandares de los dos medios por separado.\
 **4.-** Grafice con la funcion hist(), todas las muestras, medio estandar y medio lixivaido por separado.\
 **5.-** Grafice con la funcion plot(density(x)) el medio estandar y sobreponga el medio lixiviado con la funcion line(density(y))\
-   > ejemplo\
+   ejemplo\
         plot(density(x), col='blue', lwd=2)\
         lines(density(y), col='red', lwd=2)\
 **6.-** Cual es la proporcion de las muestras que pesan menos de 75 gramos?, de los dos medios por separado.\
