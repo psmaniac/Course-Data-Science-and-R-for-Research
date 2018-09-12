@@ -10,9 +10,12 @@ They have the following results in: "https://github.com/psmaniac/Course-Data-Sci
 **4.-** Grafice con la funcion hist(), todas las muestras, medio estandar y medio lixivaido por separado.\
 **5.-** Grafice con la funcion plot(density(x)) el medio estandar y sobreponga el medio lixiviado con la funcion line(density(y))\
    ejemplo
-  >      plot(density(x), col='blue', lwd=2)
+  >     plot(density(x), col='blue', lwd=2)
   >     lines(density(y), col='red', lwd=2)
 **6.-** Cual es la proporcion de las muestras que pesan menos de 75 gramos?, de los dos medios por separado.\
+   ejemplo
+  >     mean(condicion)
+  >     mean(data_set < 80) "Devuelve la proporcion de datos que son menores a 80"
 **7.-** Cual es la proporcion de las muestras que pesan entre +- 10 gramos con respecto a sus promedios?, de los dos medios por separado.\
 **8.-** Cual es la proporcion de las muestras que pesan entre +- 0.6 DS?, de los dos medios por separado.\
 **9.-** Cual es la proporcion de las muestras que pesan entre 65 y 85 gramos?, de los dos medios por separado.\
