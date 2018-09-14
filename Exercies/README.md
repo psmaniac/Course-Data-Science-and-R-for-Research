@@ -41,3 +41,5 @@ They have the following results in: "https://raw.githubusercontent.com/psmaniac/
 **19.-** Cual es la probabilidad de los promedios del medio estandar que pesan entre +- 1 DS del medio lixiviado.\
 **20.-** Cual es la probabilidad de los promedios del medio lixiviado que pesan entre +- 1 DS del medio estandar.\
 **21.-** Realize una comparacion entre los resultados con respecto a la proporcion y probabilidad de los ejercicios
+
+**Terminado la practica resuelva el siguiente test en el enlace: [PRACTICA](https://testmoz.com/1821594)**
