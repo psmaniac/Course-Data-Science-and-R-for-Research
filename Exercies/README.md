@@ -30,6 +30,7 @@ They have the following results in: "https://raw.githubusercontent.com/psmaniac/
 **14.-** Grafice con la funcion plot(density(x)) los promedios del medio estandar y sobreponga los promedios del medio lixiviado con la funcion line(density(y))\
    Use el parametro xlim dentro de la funcion plot(), para ampliar el tamanio de los limites del grafico
   >    xlim=c(45, 110)\
+  
 **15.-** Cual es la probabilidad de los promedios que pesan menos de 75 gramos?, de los dos medios por separado.\
    Ejemplo
   >     pnorm(valor, mean= 0, sd=1) "devuelve la probabilidad de datos que sean menor a el valor para una distribucion estandar"
