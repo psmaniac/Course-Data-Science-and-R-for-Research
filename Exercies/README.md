@@ -2,7 +2,7 @@
 
 They was cultivated isolated methanogenic bacteria  _(Ruminococcus flavefaciens)_ in an anaerobic reactor, these coming from the stomach of a ruminant, two types of culture media were used: standard medium and leachate medium, they were cultivated in anaerobic reactors of 5 liters, after 36 hours of cultivation, they calculate the biomass of bacteria in (g/L)
 
-They have the following results in: "https://github.com/psmaniac/Course-Data-Science-and-R-for-Research/blob/master/Exercies/culture_methanogenic_bacteria.csv"
+They have the following results in: "https://raw.githubusercontent.com/psmaniac/Course-Data-Science-and-R-for-Research/master/Exercies/culture_methanogenic_bacteria.csv"
 
 **1.-** Cuales son los promedios de: toda la muestra, medio estandar y medio lixiviado?.\
 **2.-** Que hipotesis puede asimir comparando los promedios de los dos medios?.\
